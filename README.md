@@ -2,9 +2,12 @@
 
 <!--
 **cesantaniello/cesantaniello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+ -->
 
-I'm a Frontend Dev with experience in JavaScript and React. Queries in SQL are my hobbies. Java y PHP are my languages in Backend and I love Linux. 
+ I'm a Frontend Dev with experience in JavaScript and React. 
+ Queries in SQL are my hobbies. 
+ Java and PHP are my languages in Backend. 
+ I love Linux. 
 
 
 - 🔭 I’m currently working on ... old-school frontend web apps. (LAMP)
@@ -15,4 +18,4 @@ I'm a Frontend Dev with experience in JavaScript and React. Queries in SQL are m
 - 📫 How to reach me: ... Here and in LinkedIn.
 - 😄 Pronouns: ... Me.
 - ⚡ Fun fact: ... Had been living in 3 continents always is fun.
--->
+
