@@ -18,6 +18,7 @@ You can find me in [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Sever-Apache-informational?style=flat&logo=apache&logoColor=white&color=darkred)
+![](https://img.shields.io/badge/Sever-Tomcat-informational?style=flat&logo=tomcat&logoColor=white&color=yellow)
 
 ## :octocat: Github Stats
 
