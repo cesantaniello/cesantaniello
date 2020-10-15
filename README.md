@@ -12,12 +12,13 @@
 ![](https://img.shields.io/badge/Markup-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=grey)
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brown)
+
 ![](https://img.shields.io/badge/Code-PHP7-informational?style=flat&logo=php&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Sever-Apache-informational?style=flat&logo=apache&logoColor=white&color=darkred)
 ![](https://img.shields.io/badge/Sever-Tomcat-informational?style=flat&logo=java&logoColor=white&color=yellow)
 
