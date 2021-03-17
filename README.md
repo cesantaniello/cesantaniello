@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Sever-Apache-informational?style=flat&logo=apache&logoColor=white&color=darkred)
 ![](https://img.shields.io/badge/Sever-Tomcat-informational?style=flat&logo=java&logoColor=white&color=darkred)
 
