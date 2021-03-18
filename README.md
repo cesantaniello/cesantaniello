@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
 ![](https://img.shields.io/badge/VSC-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=netbeans&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=NetBeans&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Markup-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
