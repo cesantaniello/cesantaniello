@@ -1,7 +1,7 @@
 # ¡Hola, mundo! Hello world! 👋
 
 ### My name is Carlos, I'm a Web Developer. 
-### You can find me in <!--[![Twitter][1.1]][1] and--> [![LinkedIn][2.1]][2]
+### You can find me in [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
 
 ## 💻 Technologies & Tools
 
@@ -32,9 +32,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesantaniello&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesantaniello&layout=compact&theme=buefy)
 
-<!--
+
 [1.1]: https://img.icons8.com/cute-clipart/30/000000/twitter.png
 [1]: https://twitter.com/cesantaniello
--->
+
 [2.1]: https://img.icons8.com/cute-clipart/30/000000/linkedin.png
 [2]: https://www.linkedin.com/in/carlos-e-santaniello/
