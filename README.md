@@ -30,7 +30,8 @@
 ## :octocat: Github Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesantaniello&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesantaniello&&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesantaniello&layout=compact&theme=buefy)
+
 <!--
 [1.1]: https://img.icons8.com/cute-clipart/30/000000/twitter.png
 [1]: https://twitter.com/cesantaniello
