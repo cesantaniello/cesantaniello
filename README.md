@@ -1,6 +1,6 @@
 # ¡Hola, mundo! Hello world! 👋
 
-### My name is Carlos, I'm a Web Developer. 
+### My name is Carlos, I'm a Frontend Developer interested in Blockchain Technology. 
 ### You can find me in [![Twitter][1.1]][1] and [![LinkedIn][2.1]][2]
 
 ## 💻 Technologies & Tools
