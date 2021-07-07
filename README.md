@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/Stack-LAMP-informational?style=flat&logo=xampp&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/VSC-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Spyder5-informational?style=flat&logo=spyder&logoColor=white&color=grey)
+![](https://img.shields.io/badge/IDE-NetBeans12-informational?style=flat&logo=netbeans&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Markup-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
@@ -23,8 +25,6 @@
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=darkred)
-![](https://img.shields.io/badge/Server-Tomcat-informational?style=flat&logo=java&logoColor=white&color=darkred)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=black)
 
 ## :octocat: Github Stats
