@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/IDE-NetBeans12-informational?style=flat&logo=netbeans&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Markup-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Code-Java11-informational?style=flat&logo=java&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-PHP7-informational?style=flat&logo=php&logoColor=white&color=darkviolet)
@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=black)
-![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=green)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=black&color=green)
 
 ## :octocat: Github Stats
 
