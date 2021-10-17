@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=blue)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=Postgre&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=black)
 
