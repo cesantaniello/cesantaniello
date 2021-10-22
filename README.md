@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Framework-Django3-informational?style=flat&logo=django&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/DBMS-phpMyAdmin-informational?style=flat&logo=phpMyAdmin&logoColor=white&color=orange)
-![](https://img.shields.io/badge/DBMS-MySQL Workbench-informational?style=flat&logo=workbench&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/DBMS-MySQLWorkbench-informational?style=flat&logo=workbench&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
