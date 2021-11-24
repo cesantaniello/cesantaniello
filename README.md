@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Code-PHP7-informational?style=flat&logo=php&logoColor=white&color=darkviolet)
 ![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=black)
-![](https://img.shields.io/badge/EnvDev-NodeJS-informational?style=flat&logo=node-js&logoColor=white&color=green)
+![](https://img.shields.io/badge/Env-NodeJS-informational?style=flat&logo=node&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Preprocessor-Sass-informational?style=flat&logo=sass&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Preprocessor-pug-informational?style=flat&logo=pug&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Framework-Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=darkviolet)
