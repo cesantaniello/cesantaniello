@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDBL&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=black)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)
+![](https://img.shields.io/badge/API-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=darkviolet)
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=green)
 
