@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=blue)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongoL&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongo&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=black)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/API-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=darkviolet)
