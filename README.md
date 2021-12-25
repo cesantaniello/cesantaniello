@@ -1,6 +1,6 @@
 # ¡Hola, mundo! Hello world! 👋
 
-### Frontend Developer oriented to Web3. 
+### I'm a Frontend Developer oriented to Web3. 
 ### You can find me in [![LinkedIn][2.1]][2]
 
 ## 💻 Technologies & Tools
