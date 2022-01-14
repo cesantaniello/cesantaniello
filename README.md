@@ -39,11 +39,12 @@
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=green)
 
+<!--
 ## :octocat: Github Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesantaniello&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesantaniello&layout=compact&theme=buefy)
-
+-->
 
 [1.1]: https://img.icons8.com/cute-clipart/30/000000/twitter.png
 [1]: https://twitter.com/cesantaniello
