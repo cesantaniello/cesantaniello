@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Auth-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=orange)
-
+![](https://img.shields.io/badge/Auth-Auth0-informational?style=flat&logo=auth0&logoColor=white&color=black)
 
 ## :octocat: Github Stats
 
