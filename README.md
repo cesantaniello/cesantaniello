@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/IDE-NetBeans12-informational?style=flat&logo=netbeans&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Markup-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=darkviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Code-Java11-informational?style=flat&logo=java&logoColor=white&color=brown)
