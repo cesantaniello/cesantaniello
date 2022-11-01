@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/Preprocessor-Sass-informational?style=flat&logo=sass&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Preprocessor-pug-informational?style=flat&logo=pug&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Framework-Bootstrap%205-informational?style=flat&logo=bootstrap&logoColor=white&color=darkviolet)
+![](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Django%203-informational?style=flat&logo=django&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Framework-React%2017-informational?style=flat&logo=React&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Framework-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=darkviolet)
