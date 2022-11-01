@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Markup-CSS%203-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=darkviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Code-Java%2011-informational?style=flat&logo=java&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-PHP%207-informational?style=flat&logo=php&logoColor=white&color=darkviolet)
@@ -51,10 +52,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesantaniello&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesantaniello&layout=compact&theme=buefy)
-
-
-[1.1]: https://img.icons8.com/cute-clipart/30/000000/twitter.png
-[1]: https://twitter.com/cesantaniello
 
 [2.1]: https://img.icons8.com/cute-clipart/30/000000/linkedin.png
 [2]: https://www.linkedin.com/in/carlos-e-santaniello/
