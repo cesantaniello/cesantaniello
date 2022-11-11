@@ -6,7 +6,7 @@
 ## 💻 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-W10-informational?style=flat&logo=windows&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/OS-W11-informational?style=flat&logo=windows&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Stack-LAMP-informational?style=flat&logo=xampp&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=react&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/VSC-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
