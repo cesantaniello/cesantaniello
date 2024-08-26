@@ -6,7 +6,7 @@
 ## 💻 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
-![](https://img.shields.io/badge/OS-W11-informational?style=flat&logo=windows&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=windows&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Stack-LAMP-informational?style=flat&logo=xampp&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=react&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/VSC-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=grey)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/Code-Dart%203-informational?style=flat&logo=Dart&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Code-Java%2011-informational?style=flat&logo=java&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-PHP%207-informational?style=flat&logo=php&logoColor=white&color=darkviolet)
 ![](https://img.shields.io/badge/Code-Python%203-informational?style=flat&logo=python&logoColor=white&color=darkgreen)
@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Preprocessor-Sass-informational?style=flat&logo=sass&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Preprocessor-pug-informational?style=flat&logo=pug&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Framework-Bootstrap%205-informational?style=flat&logo=bootstrap&logoColor=white&color=darkviolet)
-![](https://img.shields.io/badge/Framework-Flutter%205-informational?style=flat&logo=flutter&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Flutter%203-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Django%203-informational?style=flat&logo=django&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Framework-React%2017-informational?style=flat&logo=React&logoColor=white&color=darkblue)
