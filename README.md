@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Code-Java%2011-informational?style=flat&logo=java&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-PHP%207-informational?style=flat&logo=php&logoColor=white&color=darkviolet)
 ![](https://img.shields.io/badge/Code-Python%203-informational?style=flat&logo=python&logoColor=white&color=darkgreen)
